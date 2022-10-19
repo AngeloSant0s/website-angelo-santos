@@ -24,11 +24,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-  - date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: 'vvv'
-    organization: DataCamp
-    title: 'Object-Oriented Programming in R'
+  - date_end: '2022-04'
+    date_start: '2022-01'
+    description: 'A for German Cubas and Bent Sorensen, PhD level course'
+    organization: University of Houston
+    title: 'Teaching assitantship, Macro II'
 
     
 design:
