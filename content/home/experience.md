@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+Research:
   - title: Research Assistant
     company: University of Houston
     location: Houston, TX
@@ -35,7 +35,15 @@ experience:
     date_start: '2018-04-01'
     date_end: '2020-04-01'
     description: Graduate Research assitantship for prof. Raul da Mota Silveira Neto 
-    
+  
+  - title: Undergraduate Research Assistant
+    company: PET - MEC
+    location: Recife, Brazil
+    date_start: '2014-07-01'
+    date_end: '2017-07-01'
+    description: Undergraduate Research assitantship funded by the Brazilian government
+
+
 design:
   columns: '2'
 ---
