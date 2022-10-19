@@ -22,7 +22,7 @@ bio: My name is Angelo, I am a PhD candidate in Economics with interest in devel
 
 # Interests to show in About widget
 interests:
-  - Development
+  - Development Economics
   - Education
   - Health
 
