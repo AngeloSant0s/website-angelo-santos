@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angelo Santo
+title: Angelo Santos
 
 # Full name (for SEO)
 first_name: Angelo 
@@ -22,7 +22,7 @@ bio: My name is Angelo, I am a PhD candidate in Economics with interest in devel
 
 # Interests to show in About widget
 interests:
-  - Development Economics
+  - Development
   - Education
   - Health
 
