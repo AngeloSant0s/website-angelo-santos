@@ -24,14 +24,6 @@ feature:
     icon: chart-scatter
     icon_pack: fab
     name: STATA
-  - description: Native
-    icon: "🇧🇷"
-    icon_pack: "emoji"
-    name: Portuguese
- -  description: Advanced
-    icon: "🇺🇸"
-    icon_pack: "emoji"
-    name: Engligh
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
