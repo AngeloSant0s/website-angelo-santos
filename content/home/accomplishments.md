@@ -25,6 +25,7 @@ date_format: Jan 2006
 item:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   - date_end: '2022-04'
     date_start: '2022-01'
     description: 'A for German Cubas and Bent Sorensen, PhD level course'
@@ -37,6 +38,13 @@ item:
     organization: DataCamp
     title: 'Object-Oriented Programming in R'
 >>>>>>> parent of 9053aa8 (Update accomplishments.md)
+=======
+  - date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: 'vvv'
+    organization: DataCamp
+    title: 'Object-Oriented Programming in R'
+>>>>>>> parent of 131d846 (Update accomplishments.md)
 
     
 design:
