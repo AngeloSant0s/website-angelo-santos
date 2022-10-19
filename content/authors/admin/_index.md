@@ -1,30 +1,30 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Angelo Santos
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Angelo 
+last_name: Santos
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Houston
+    url: https://uh.edu/class/economics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My name is Angelo, I am a PhD candidate in Economics with interest in development, education and helth. I am from Brazil, and of course I love soccer!
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Development Economics
+  - Education
+  - Health
 
 # Education to show in About widget
 education:
