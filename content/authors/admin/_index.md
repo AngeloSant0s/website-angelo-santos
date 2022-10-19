@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angelo Santos
+title: Angelo Santo
 
 # Full name (for SEO)
 first_name: Angelo 
