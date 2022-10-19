@@ -8,16 +8,16 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#projects'
+    url: '#research'
     weight: 20
   - name: Projects
-    url: '#featured'
+    url: '#projects'
     weight: 30
   - name: Teaching
-    url: '#featured'
+    url: '#teaching'
     weight: 40
   - name: CV
-    url: '#featured'
+    url: '#cv'
     weight: 50
   - name: Contact
     url: '#contact'
