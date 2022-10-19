@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angelo Santo
+title: Angelo Santos
 
 # Full name (for SEO)
 first_name: Angelo 
@@ -46,22 +46,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:angelofgdsantos@gmail.com"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AngeloSant0s
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/AngeloSant0s
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/angelo-santos-2854bb147/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -76,6 +73,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! I am a PhD candidate at the University of Houston. My interest are development, education and health. My ongoing research is try to estimate a special education policy in Brazil. I a also a python and soccer lover! 
+Hello! I am a PhD candidate at the University of Houston. My interest are development, education and health. My ongoing research is try to estimate a special education policy in Brazil. I am also a python and soccer lover! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
