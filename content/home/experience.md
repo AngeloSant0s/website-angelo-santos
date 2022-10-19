@@ -23,22 +23,28 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: GenCoin
+    company: University of Houston
     company_url: ''
-    location: University of Houston
+    location: Houston, TX
     date_start: '2021-09-01'
     date_end: ''
     description: Research assitantship for prof. Chinhui Juhn and Yona Rubinstein
 
-
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: FACEPE
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Recife, Brazil
+    date_start: '2018'
+    date_end: '2020'
+    description: Graduate Research assitantship for prof. Raul da Mota Silveira Neto 
+    
+  - title: Undergraduate Research Assistant
+    company: PET - MEC
+    company_url: ''
+    location: Recife, Brazil
+    date_start: '2014'
+    date_end: '2017'
+    description: Undergraduate Research assitantship funded by the Brazilian government
 
 design:
   columns: '2'
