@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Teaching Experience'
 subtitle:
 
 # Date format
@@ -23,31 +23,41 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - date_start: '2022-04'
+    date_end: ''2022-01''
+    description: TA for German Cubas and Bent Sorensen - PhD level course
+    organization: University of Houston
+    title: Teaching assitantship - Macro II
+    
+  - date_start: '2021-08'
+    date_end: ''2022-12''
+    description: TA for Christopher Clarke
+    organization: University of Houston
+    title: Teaching assitantship - Intermediate microeconomics 
+    
+  - date_start: '2021-08'
+    date_end: ''2022-12''
+    description: TA for Christopher Clarke
+    organization: University of Houston
+    title: Teaching assitantship - History of Economic Doctrine 
+ 
+  - date_start: '2016-08'
+    date_end: ''2016-12''
+    description: TA for Marcelo Eduardo
+    organization: Federal University of Pernambuco, Brazil
+    title: Teaching assitantship - Macroeconomics I
+ 
+ - date_start: '2015-08'
+    date_end: ''2015-12''
+    description: TA for Marcia Alcoforado
+    organization: Federal University of Pernambuco, Brazil
+    title: Teaching assitantship - Elements of Mathematical Economics I
+
+ 
+    
+
 
 design:
   columns: '2'
 ---
+
