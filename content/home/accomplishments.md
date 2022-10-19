@@ -26,10 +26,10 @@ item:
   - certificate_url: ''
     date_end: '2022-01'
     date_start: '2022-04'
-    description: TA for German Cubas and Bent Sorensen - PhD level course
+    description: TA for German Cubas and Bent Sorensen, PhD level course
     organization: University of Houston
     organization_url: https://www.edx.org
-    title: Teaching assitantship - Macro II
+    title: Teaching assitantship, Macro II
     url: ''
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
