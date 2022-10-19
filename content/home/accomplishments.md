@@ -31,7 +31,7 @@ item:
     title: 'Object-Oriented Programming in R'
     
   - date_start: '2022-04'
-    date_end: ''2022-01''
+    date_end: '2022-01'
     description: 'TA for German Cubas and Bent Sorensen - PhD level course'
     organization: University of Houston
     title: 'Teaching assitantship - Macro II'    
