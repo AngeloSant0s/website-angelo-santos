@@ -34,18 +34,8 @@ experience:
     location: Recife, Brazil
     date_start: '2018-04-01'
     date_end: '2020-04-01'
-    description: |2-
-    Graduate Research assitantship for prof. Raul da Mota Silveira Neto 
+    description: Graduate Research assitantship for prof. Raul da Mota Silveira Neto 
     
-  - title: Undergraduate Research Assistant
-    company: PET - MEC
-    company_url: ''
-    location: Recife, Brazil
-    date_start: '2014-07-01'
-    date_end: '2017-07-01'
-    description:|2-
-    Undergraduate Research assitantship funded by the Brazilian government
-
 design:
-  columns: '3'
+  columns: '2'
 ---
