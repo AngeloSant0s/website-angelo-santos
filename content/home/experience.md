@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: University of Houston
-    company_url: ''
     location: Houston, TX
     date_start: '2021-09-01'
     date_end: ''
@@ -32,19 +31,20 @@ experience:
 
   - title: Research Assistant
     company: FACEPE
-    company_url: ''
     location: Recife, Brazil
-    date_start: '2018'
-    date_end: '2020'
-    description: Graduate Research assitantship for prof. Raul da Mota Silveira Neto 
+    date_start: '2018-04-01'
+    date_end: '2020-04-01'
+    description: |2-
+    Graduate Research assitantship for prof. Raul da Mota Silveira Neto 
     
   - title: Undergraduate Research Assistant
     company: PET - MEC
     company_url: ''
     location: Recife, Brazil
-    date_start: '2014'
-    date_end: '2017'
-    description: Undergraduate Research assitantship funded by the Brazilian government
+    date_start: '2014-07-01'
+    date_end: '2017-07-01'
+    description:|2-
+    Undergraduate Research assitantship funded by the Brazilian government
 
 design:
   columns: '2'
