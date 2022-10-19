@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,19 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: Research Assistant
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: University of Houston
+    date_start: '2021-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Research assitantship for prof. Chinhui Juhn and Yona Rubinstein
+
 
   - title: Professor of Semiconductor Physics
     company: University X
