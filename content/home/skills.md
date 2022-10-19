@@ -24,11 +24,17 @@ feature:
     icon: chart-scatter-bubble
     icon_pack: fab
     name: STATA
+  - description: Advanced
+    icon: language
+    icon_pack: fab
+    name: Portugues, English, Spanish
+ 
+    
 # Uncomment to use emoji icons.
--   description: 100%
-    icon: :smile:
-    icon_pack: emoji
-    name: Emojiness
+#-   description: 100%
+#    icon: :smile:
+#    icon_pack: emoji
+#    name: Emojiness
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
