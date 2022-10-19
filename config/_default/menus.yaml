@@ -7,30 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-<<<<<<< HEAD
   - name: Research
     url: '#research'
-=======
-  - name: Posts
-    url: '#posts'
->>>>>>> parent of 5ae5b32 (Update menus.yaml)
     weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
-<<<<<<< HEAD
   - name: Teaching
     url: '#teaching'
     weight: 40
   - name: CV
     url: '#cv'
-=======
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
->>>>>>> parent of 5ae5b32 (Update menus.yaml)
     weight: 50
   - name: Contact
     url: '#contact'
