@@ -25,9 +25,9 @@ feature:
     icon_pack: fab
     name: STATA
   - description: Advanced
-    icon: language
+    icon: f1ab
     icon_pack: fab
-    name: Portugues, English, Spanish
+    name: Portuguese, English, Spanish
  
     
 # Uncomment to use emoji icons.
