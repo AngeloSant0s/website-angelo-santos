@@ -25,11 +25,11 @@ feature:
     icon_pack: fab
     name: STATA
   - description: Native
-    icon: ":brazil:"
+    icon: "🇧🇷"
     icon_pack: "emoji"
     name: Portuguese
  -  description: Advanced
-    icon: ":usa:"
+    icon: "🇺🇸"
     icon_pack: "emoji"
     name: Engligh
 # Uncomment to use emoji icons.
