@@ -24,34 +24,34 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_start: '2022-04'
-    date_end: ''2022-01''
+    date_end: '2022-01'
     description: TA for German Cubas and Bent Sorensen - PhD level course
     organization: University of Houston
     title: Teaching assitantship - Macro II
     
   - date_start: '2021-08'
-    date_end: ''2022-12''
+    date_end: '2022-12'
     description: TA for Christopher Clarke
     organization: University of Houston
     title: Teaching assitantship - Intermediate microeconomics 
     
   - date_start: '2021-08'
-    date_end: ''2022-12''
+    date_end: '2022-12'
     description: TA for Christopher Clarke
     organization: University of Houston
     title: Teaching assitantship - History of Economic Doctrine 
  
   - date_start: '2016-08'
-    date_end: ''2016-12''
+    date_end: '2016-12'
     description: TA for Marcelo Eduardo
     organization: Federal University of Pernambuco, Brazil
     title: Teaching assitantship - Macroeconomics I
  
  - date_start: '2015-08'
-    date_end: ''2015-12''
-    description: TA for Marcia Alcoforado
-    organization: Federal University of Pernambuco, Brazil
-    title: Teaching assitantship - Elements of Mathematical Economics I
+   date_end: '2015-12'
+   description: TA for Marcia Alcoforado
+   organization: Federal University of Pernambuco, Brazil
+   title: Teaching assitantship - Elements of Mathematical Economics I
 
  
     
